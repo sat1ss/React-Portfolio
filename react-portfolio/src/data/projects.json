@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Todo website",
+    "imageSrc": "projects/todo.png",
+    "description": "W tym projektcie wykorzystałem cache do zapamiętywania zadań pomiędzy odświeżaniem strony.",
+    "skills": ["React", "JS", "CSS"],
+    "demo": "https://www.todo.swantech.pl",
+    "source": "https://github.com/sat1ss/React-Projects/tree/a8a93a5b655e01269825187c93fe702a58c57502/todo-app"
+  },
+  {
+    "title": "Pokedex",
+    "imageSrc": "projects/pokedex.png",
+    "description": "W tym projekcie wykorzystałem API do generowania strony, oraz cache do optymalizacji ładowania strony.",
+    "skills": ["React", "JS", "CSS"],
+    "demo": "https://www.pokedex.swantech.pl",
+    "source": "https://github.com/sat1ss/React-Projects/tree/a8a93a5b655e01269825187c93fe702a58c57502/pokedex"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "W tym projekcie właśnie teraz się znajdujesz, z pliku JSON generuje zawartość sekcji projekty.",
+    "skills": ["React", "JS", "CSS"],
+    "demo": "https://www.swantech.pl",
+    "source": "https://github.com/sat1ss/React-Portfolio/tree/bf7bd9508d9f8b9dd8994e70845bf585e34c671e/react-portfolio"
+  }
+]

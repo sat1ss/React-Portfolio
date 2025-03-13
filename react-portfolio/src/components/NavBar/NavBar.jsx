@@ -7,7 +7,7 @@ export function NavBar() {
   return (
     <nav className={style.navbar}>
       <a className={style.navbarTitle} href="/">
-        Portfolio
+        Swantech
       </a>
       <div className={style.navbarMenu}>
         <img
@@ -29,16 +29,16 @@ export function NavBar() {
           }}
         >
           <li>
-            <a href="#about">About</a>
+            <a href="#about">O Nas</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#experience">Doświadczenie</a>
           </li>
           <li>
-            <a href="#projects">About</a>
+            <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#contact">Kontakt</a>
           </li>
         </ul>
       </div>
