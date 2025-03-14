@@ -4,6 +4,8 @@ import { getImageUrl } from "../../utils";
 
 export function ProjectCard(props) {
   const { project } = props;
+
+  console.log(getImageUrl(project.imageSrc));
   return (
     <div className={style.container}>
       <img
