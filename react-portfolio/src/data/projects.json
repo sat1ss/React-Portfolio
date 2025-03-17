@@ -1,6 +1,6 @@
 [
   {
-    "title": "Todo website",
+    "title": "Lista zadań",
     "imageSrc": "projects/todo.png",
     "description": "W tym projektcie wykorzystałem cache do zapamiętywania zadań pomiędzy odświeżaniem strony.",
     "skills": ["React", "JS", "CSS"],
